@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54327" started-at="2018-08-30T11:59:43Z" finished-at="2018-08-30T12:00:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54327" started-at="2018-08-30T11:59:43Z" finished-at="2018-08-30T12:00:37Z">
+      <class name="com.ca.cleartrip.flight.testscripts.FlightTest">
+        <test-method status="PASS" signature="initTest()[pri:0, instance:com.ca.cleartrip.flight.testscripts.FlightTest@6895a785]" name="initTest" is-config="true" duration-ms="33424" started-at="2018-08-30T17:29:43Z" finished-at="2018-08-30T17:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method status="PASS" signature="initClass()[pri:0, instance:com.ca.cleartrip.flight.testscripts.FlightTest@6895a785]" name="initClass" is-config="true" duration-ms="7" started-at="2018-08-30T17:30:16Z" finished-at="2018-08-30T17:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initClass -->
+        <test-method status="PASS" signature="initMethod()[pri:0, instance:com.ca.cleartrip.flight.testscripts.FlightTest@6895a785]" name="initMethod" is-config="true" duration-ms="13" started-at="2018-08-30T17:30:17Z" finished-at="2018-08-30T17:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initMethod -->
+        <test-method status="PASS" signature="testSearchFlight(java.util.LinkedHashMap)[pri:0, instance:com.ca.cleartrip.flight.testscripts.FlightTest@6895a785]" name="testSearchFlight" duration-ms="17457" started-at="2018-08-30T17:30:17Z" data-provider="flightTestDataProvider" finished-at="2018-08-30T17:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{from=Bangalore, to=Bhubaneswar, month=March, day=2, expecmsg=Bangalore â†’ Bhubaneswar}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFlight -->
+        <test-method status="PASS" signature="flushReport()[pri:0, instance:com.ca.cleartrip.flight.testscripts.FlightTest@6895a785]" name="flushReport" is-config="true" duration-ms="3068" started-at="2018-08-30T17:30:34Z" finished-at="2018-08-30T17:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- com.ca.cleartrip.flight.testscripts.FlightTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

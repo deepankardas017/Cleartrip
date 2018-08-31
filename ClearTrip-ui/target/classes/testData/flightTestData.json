@@ -1,0 +1,16 @@
+{
+  "testSearchFlight":{
+    "from": "Bangalore",
+    "to": "Bhubaneswar",
+    "month": "March",
+    "day": "2",
+    "expecmsg": "Bangalore → Bhubaneswar"
+  },
+   "testSearchFlight1":{
+    "from": "Bangalore",
+    "to": "Bhubaneswar",
+    "month": "March",
+    "day": "2",
+    "expecmsg": "Bangalore → Bhubaneswar"
+  },
+}

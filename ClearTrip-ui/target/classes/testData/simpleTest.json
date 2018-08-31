@@ -1,0 +1,10 @@
+{
+	"testDataProvider": {
+		"un": "muna",
+		"pwd": "abc"
+	},
+	"tc2": {
+		"un": "deep",
+		"pwd": "xyz"
+	}
+}
